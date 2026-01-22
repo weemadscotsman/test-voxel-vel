@@ -1,0 +1,5 @@
+{
+  "name": "Voxel Velocity React",
+  "description": "A high-octane 2.5D voxel side-scroller featuring procedural terrain generation, physics-based movement, and destructible environments.",
+  "requestFramePermissions": []
+}
